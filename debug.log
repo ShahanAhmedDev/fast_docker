@@ -1,0 +1,294 @@
+2023-12-16T23:56:36.058451+0000 INFO Retrieved user: stu
+2023-12-16T23:56:36.064579+0000 WARNING Unauthorized attempt to create course by user: 2
+2023-12-16T23:56:36.066999+0000 ERROR Error creating course: 
+2023-12-16T23:56:51.098896+0000 INFO Retrieved user: stu
+2023-12-16T23:56:51.100150+0000 WARNING Unauthorized attempt to create course by user: 2
+2023-12-16T23:56:51.101787+0000 ERROR Error creating course: 
+2023-12-16T23:57:23.078376+0000 WARNING User not found: 7
+2023-12-16T23:57:23.079746+0000 ERROR Error retrieving user: 
+2023-12-16T23:57:32.171824+0000 INFO Retrieved user: stu
+2023-12-16T23:57:39.613316+0000 INFO Retrieved user: stu
+2023-12-16T23:57:39.614933+0000 WARNING Unauthorized attempt to create course by user: 2
+2023-12-16T23:57:39.616324+0000 ERROR Error creating course: 
+2023-12-16T23:58:11.656064+0000 INFO Retrieved user: stu
+2023-12-16T23:58:11.658209+0000 WARNING Unauthorized attempt to create course by user: 2
+2023-12-16T23:58:11.659533+0000 ERROR Error creating course: 
+2023-12-17T00:00:43.797901+0000 INFO Retrieved user: stu
+2023-12-17T00:00:43.799399+0000 WARNING Unauthorized attempt to create course by user: 2
+2023-12-17T00:01:00.593144+0000 ERROR User creation failed: Email string already exists.
+2023-12-17T00:01:15.532129+0000 INFO Retrieved user: stu
+2023-12-17T00:01:22.659765+0000 INFO Retrieved user: stu
+2023-12-17T00:01:22.687182+0000 INFO Created course: string
+2023-12-17T00:01:46.767002+0000 INFO Retrieved course: string
+2023-12-17T01:42:54.162440+0100 ERROR User creation failed : bcrypt: no backends available -- recommend you install one (e.g. 'pip install bcrypt')
+2023-12-17T01:45:58.625384+0100 ERROR User creation failed : bcrypt: no backends available -- recommend you install one (e.g. 'pip install bcrypt')
+2023-12-17T01:55:06.255287+0100 ERROR User creation failed : bcrypt: no backends available -- recommend you install one (e.g. 'pip install bcrypt')
+2023-12-17T01:56:28.023360+0100 ERROR User creation failed : bcrypt: no backends available -- recommend you install one (e.g. 'pip install bcrypt')
+2023-12-17T01:59:19.908106+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:10:48.868136+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:11:37.846570+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:13:48.195930+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:14:01.949660+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:16:10.487077+0100 ERROR User creation failed : (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:17:44.736176+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:18:03.562991+0100 ERROR User creation failed : (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:20:25.847395+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:22:52.265496+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:26:26.322929+0100 ERROR User creation failed : (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-12-17T02:30:34.282656+0100 ERROR User creation failed: Email testing@email.com already exists.
+2023-12-17T13:15:15.285751+0000 ERROR User creation failed: Email string already exists.
+2023-12-17T13:16:40.242142+0000 INFO Retrieved user: string
+2023-12-17T13:18:31.269159+0000 INFO Retrieved user: string
+2023-12-17T13:18:31.270984+0000 WARNING Unauthorized attempt to create course by user: 8
+2023-12-17T13:19:31.716973+0000 WARNING Lesson not found: 8
+2023-12-17T13:19:31.721388+0000 ERROR Error retrieving lesson: 
+2023-12-17T13:20:47.921141+0000 WARNING User not found: 9
+2023-12-17T13:20:47.921952+0000 ERROR Error retrieving user: 
+2023-12-17T13:23:40.140625+0000 INFO Retrieved user: string
+2023-12-17T13:23:40.141939+0000 WARNING Unauthorized attempt to create course by user: 8
+2023-12-17T13:25:38.248190+0000 INFO Retrieved user: string
+2023-12-17T13:25:38.252842+0000 ERROR Error creating progress: (psycopg2.errors.InvalidTextRepresentation) invalid input value for enum status_types: "string"
+LINE 1: ...ion_status, progress_percentage) VALUES (0, 0, 0, 'string', ...
+                                                             ^
+
+[SQL: INSERT INTO progress (student_id, course_id, lesson_id, completion_status, progress_percentage) VALUES (%(student_id)s, %(course_id)s, %(lesson_id)s, %(completion_status)s, %(progress_percentage)s) RETURNING progress.id]
+[parameters: {'student_id': 0, 'course_id': 0, 'lesson_id': 0, 'completion_status': 'string', 'progress_percentage': 0.0}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-12-17T13:28:03.663741+0000 ERROR User creation failed: Email string already exists.
+2023-12-17T13:28:20.055979+0000 INFO Retrieved user: string
+2023-12-17T13:28:20.065755+0000 ERROR Error creating course: (psycopg2.errors.ForeignKeyViolation) insert or update on table "courses" violates foreign key constraint "courses_creator_id_fkey"
+DETAIL:  Key (creator_id)=(0) is not present in table "users".
+
+[SQL: INSERT INTO courses (title, description, creator_id) VALUES (%(title)s, %(description)s, %(creator_id)s) RETURNING courses.id]
+[parameters: {'title': 'string', 'description': 'string', 'creator_id': 0}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-12-17T13:28:25.875483+0000 INFO Retrieved user: string
+2023-12-17T13:28:25.882283+0000 INFO Created course: string
+2023-12-17T13:28:37.625258+0000 INFO Retrieved course: string
+2023-12-17T13:28:44.835355+0000 INFO Retrieved user: string
+2023-12-17T13:28:44.843191+0000 ERROR Error creating lesson: (psycopg2.errors.ForeignKeyViolation) insert or update on table "lessons" violates foreign key constraint "lessons_course_id_fkey"
+DETAIL:  Key (course_id)=(0) is not present in table "courses".
+
+[SQL: INSERT INTO lessons (title, content, course_id) VALUES (%(title)s, %(content)s, %(course_id)s) RETURNING lessons.id]
+[parameters: {'title': 'string', 'content': 'string', 'course_id': 0}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-12-17T13:28:49.445316+0000 INFO Retrieved user: string
+2023-12-17T13:28:49.449371+0000 ERROR Error creating lesson: (psycopg2.errors.ForeignKeyViolation) insert or update on table "lessons" violates foreign key constraint "lessons_course_id_fkey"
+DETAIL:  Key (course_id)=(8) is not present in table "courses".
+
+[SQL: INSERT INTO lessons (title, content, course_id) VALUES (%(title)s, %(content)s, %(course_id)s) RETURNING lessons.id]
+[parameters: {'title': 'string', 'content': 'string', 'course_id': 8}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-12-17T13:28:59.533461+0000 INFO Retrieved user: string
+2023-12-17T13:28:59.542162+0000 INFO Created lesson: string
+2023-12-17T13:29:13.257052+0000 INFO Retrieved lesson: string
+2023-12-17T13:29:19.955532+0000 INFO Retrieved user: string
+2023-12-17T13:29:19.980830+0000 ERROR Error creating material: (psycopg2.errors.ForeignKeyViolation) insert or update on table "materials" violates foreign key constraint "materials_course_id_fkey"
+DETAIL:  Key (course_id)=(0) is not present in table "courses".
+
+[SQL: INSERT INTO materials (title, content_type, content, course_id) VALUES (%(title)s, %(content_type)s, %(content)s, %(course_id)s) RETURNING materials.id]
+[parameters: {'title': 'string', 'content_type': 'string', 'content': 'string', 'course_id': 0}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-12-17T13:29:23.777687+0000 INFO Retrieved user: string
+2023-12-17T13:29:23.785699+0000 INFO Created material: string
+2023-12-17T13:29:42.232615+0000 INFO Retrieved material: string
+2023-12-17T13:30:01.377839+0000 INFO Retrieved user: string
+2023-12-17T13:30:01.391981+0000 ERROR Error creating progress: (psycopg2.errors.InvalidTextRepresentation) invalid input value for enum status_types: "string"
+LINE 1: ...ion_status, progress_percentage) VALUES (8, 2, 3, 'string', ...
+                                                             ^
+
+[SQL: INSERT INTO progress (student_id, course_id, lesson_id, completion_status, progress_percentage) VALUES (%(student_id)s, %(course_id)s, %(lesson_id)s, %(completion_status)s, %(progress_percentage)s) RETURNING progress.id]
+[parameters: {'student_id': 8, 'course_id': 2, 'lesson_id': 3, 'completion_status': 'string', 'progress_percentage': 70.0}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-12-17T13:32:44.259408+0000 INFO Retrieved user: string
+2023-12-17T13:32:44.269809+0000 INFO Created progress for student ID 8
+2023-12-17T13:33:00.736934+0000 INFO Retrieved user: string
+2023-12-17T13:33:00.738377+0000 WARNING Unauthorized attempt to create course by user: 11
+2023-12-17T13:33:10.474726+0000 INFO Retrieved progress for student ID 8
+2023-12-17T13:36:02.847124+0000 INFO User 8 enrolled in course 2
+2023-12-17T13:37:06.296242+0000 INFO Retrieved enrollments for student 8
+2023-12-17T13:37:39.620614+0000 INFO Lesson 3 marked complete for student 8
+2023-12-17T13:38:21.771678+0000 INFO Retrieved user: string
+2023-12-17T13:38:21.776073+0000 INFO Retrieved completions for student 8
+2023-12-17T13:44:52.720895+0000 INFO Retrieved completions for student 8
+2023-12-17T13:44:59.159085+0000 WARNING Unauthorized access attempt by user ID: 9
+2023-12-17T13:44:59.159949+0000 ERROR Error retrieving completions: 
+2023-12-17T13:45:26.060193+0000 INFO Retrieved completions for student 8
+2023-12-17T13:45:31.001384+0000 WARNING Unauthorized access attempt by user ID: 9
+2023-12-17T13:48:38.850832+0000 INFO Retrieved lesson: string
+2023-12-17T13:48:44.169393+0000 WARNING Lesson not found: 2
+2023-12-17T13:50:39.051146+0000 INFO Retrieved user: Joh Doe
+2023-12-17T13:50:39.052627+0000 WARNING Unauthorized attempt to create course by user: 1
+2023-12-17T13:50:45.635545+0000 WARNING User not found: 55
+2023-12-17T13:50:45.636617+0000 ERROR Error retrieving user: 
+2023-12-17T13:56:16.472003+0000 WARNING User not found: 55
+2023-12-17T13:56:16.472899+0000 ERROR Error retrieving user: 
+2023-12-17T13:56:32.036418+0000 WARNING User not found: 55
+2023-12-17T13:56:32.037225+0000 ERROR Error retrieving user: 
+2023-12-17T13:56:57.044895+0000 WARNING User not found: 55
+2023-12-17T13:56:57.045661+0000 ERROR Error retrieving user: 
+2023-12-17T13:58:21.777786+0000 WARNING User not found: 66
+2023-12-17T13:58:21.778528+0000 ERROR Error retrieving user: 
+2023-12-17T13:58:29.931156+0000 INFO Retrieved user: string
+2023-12-17T13:58:29.932531+0000 WARNING Unauthorized attempt to create course by user: 8
+2023-12-17T13:58:35.239632+0000 INFO Retrieved user: Joh Doe
+2023-12-17T13:58:35.241170+0000 WARNING Unauthorized attempt to create course by user: 2
+2023-12-17T13:58:41.738775+0000 INFO Retrieved user: string
+2023-12-17T13:58:41.743964+0000 ERROR Error creating material: (psycopg2.errors.ForeignKeyViolation) insert or update on table "materials" violates foreign key constraint "materials_course_id_fkey"
+DETAIL:  Key (course_id)=(0) is not present in table "courses".
+
+[SQL: INSERT INTO materials (title, content_type, content, course_id) VALUES (%(title)s, %(content_type)s, %(content)s, %(course_id)s) RETURNING materials.id]
+[parameters: {'title': 'string', 'content_type': 'string', 'content': 'string', 'course_id': 0}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-12-17T13:58:45.659666+0000 INFO Retrieved user: string
+2023-12-17T13:58:45.683333+0000 INFO Created material: string
+2023-12-17T14:02:52.786740+0000 WARNING User not found: 33
+2023-12-17T14:02:52.787581+0000 ERROR Error retrieving user: 
+2023-12-17T14:02:57.863519+0000 WARNING User not found: 33
+2023-12-17T14:02:57.864400+0000 ERROR Error retrieving user: 
+2023-12-17T14:03:03.987124+0000 WARNING User not found: 33
+2023-12-17T14:03:03.987761+0000 ERROR Error retrieving user: 
+2023-12-17T14:04:00.745045+0000 WARNING User not found: 33
+2023-12-17T14:04:00.753091+0000 ERROR Error retrieving user: 
+2023-12-17T14:07:08.345266+0000 WARNING User not found: 22
+2023-12-17T14:07:08.346065+0000 ERROR Error retrieving user: 
+2023-12-17T14:07:40.627271+0000 WARNING User not found: 111
+2023-12-17T14:07:40.628084+0000 ERROR Error retrieving user: 
+2023-12-17T14:07:40.629441+0000 ERROR Error creating material: cannot access local variable 'current_user' where it is not associated with a value
+2023-12-17T14:11:21.249992+0000 WARNING User not found: 222
+2023-12-17T16:21:14.272331+0100 ERROR User creation failed: Email testing2@email.com already exists.
+2023-12-17T16:21:14.803161+0100 ERROR User creation failed: Email testuser@example.com already exists.
+2023-12-17T16:21:14.810732+0100 INFO Retrieved user: Joh Doe
+2023-12-17T16:22:02.720241+0100 ERROR User creation failed: Email tested@example.com already exists.
+2023-12-17T16:22:02.949836+0100 ERROR User creation failed: Email tested@example.com already exists.
+2023-12-17T16:22:02.957641+0100 INFO Retrieved user: Joh Doe
+2023-12-17T16:22:50.952332+0100 ERROR User creation failed: Email tested1@example.com already exists.
+2023-12-17T16:22:51.179243+0100 ERROR User creation failed: Email tested1@example.com already exists.
+2023-12-17T16:22:51.187223+0100 INFO Retrieved user: Joh Doe
+2023-12-17T16:23:35.429457+0100 ERROR User creation failed: Email tested2@example.com already exists.
+2023-12-17T16:23:35.660144+0100 ERROR User creation failed: Email tested2@example.com already exists.
+2023-12-17T16:23:35.667737+0100 INFO Retrieved user: Joh Doe
+2023-12-17T16:28:05.032922+0100 ERROR User creation failed: Email tested3@example.com already exists.
+2023-12-17T16:28:05.260451+0100 ERROR User creation failed: Email tested3@example.com already exists.
+2023-12-17T16:28:05.268922+0100 INFO Retrieved user: Joh Doe
+2023-12-17T16:29:27.870161+0100 ERROR User creation failed: Email tested3@example.com already exists.
+2023-12-17T16:29:28.171533+0100 ERROR User creation failed: Email tested3@example.com already exists.
+2023-12-17T16:29:28.397788+0100 ERROR User creation failed: Email tested3@example.com already exists.
+2023-12-17T16:29:28.406496+0100 INFO Retrieved user: Joh Doe
+2023-12-17T16:30:03.556003+0100 ERROR User creation failed: Email tested4@example.com already exists.
+2023-12-17T16:30:03.783924+0100 ERROR User creation failed: Email tested4@example.com already exists.
+2023-12-17T16:30:03.791877+0100 INFO Retrieved user: Joh Doe
+2023-12-17T16:30:35.443930+0100 ERROR User creation failed: Email tested5@example.com already exists.
+2023-12-17T16:30:35.680456+0100 ERROR User creation failed: Email tested5@example.com already exists.
+2023-12-17T16:30:35.689516+0100 INFO Retrieved user: Joh Doe
+2023-12-17T15:30:56.526288+0000 INFO Retrieved user: string
+2023-12-17T15:30:56.534628+0000 INFO Created course: string
+2023-12-17T15:32:32.291093+0000 INFO Created course: string
+2023-12-17T17:05:39.288265+0100 ERROR User creation failed: Email tested6@example.com already exists.
+2023-12-17T17:05:39.510474+0100 ERROR User creation failed: Email tested6@example.com already exists.
+2023-12-17T17:05:39.519449+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:05:39.534162+0100 INFO Created course: New Course
+2023-12-17T17:08:52.244202+0100 ERROR User creation failed: Email tested7@example.com already exists.
+2023-12-17T17:08:52.469666+0100 ERROR User creation failed: Email tested7@example.com already exists.
+2023-12-17T17:08:52.477630+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:08:52.492471+0100 INFO Created course: New Course
+2023-12-17T17:09:23.992445+0100 ERROR User creation failed: Email tested7@example.com already exists.
+2023-12-17T17:09:24.285094+0100 ERROR User creation failed: Email tested7@example.com already exists.
+2023-12-17T17:09:24.513981+0100 ERROR User creation failed: Email tested7@example.com already exists.
+2023-12-17T17:09:24.524352+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:09:24.540543+0100 INFO Created course: New Course
+2023-12-17T17:09:24.552783+0100 WARNING Course not found: 1
+2023-12-17T17:09:24.553115+0100 ERROR Error retrieving course: 
+2023-12-17T17:09:24.564535+0100 WARNING Course not found: 9999
+2023-12-17T17:09:24.564836+0100 ERROR Error retrieving course: 
+2023-12-17T16:10:38.688891+0000 INFO Created course: string
+2023-12-17T17:11:40.401168+0100 ERROR User creation failed: Email tested8@example.com already exists.
+2023-12-17T17:11:40.626895+0100 ERROR User creation failed: Email tested8@example.com already exists.
+2023-12-17T17:11:40.634427+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:11:40.648594+0100 INFO Created course: New Course
+2023-12-17T17:11:40.659464+0100 INFO Retrieved course: string
+2023-12-17T17:11:40.669384+0100 WARNING Course not found: 9999
+2023-12-17T17:11:40.669680+0100 ERROR Error retrieving course: 
+2023-12-17T16:12:40.703075+0000 WARNING Course not found: 999
+2023-12-17T16:12:40.703843+0000 ERROR Error retrieving course: 
+2023-12-17T17:13:39.284007+0100 ERROR User creation failed: Email tested8@example.com already exists.
+2023-12-17T17:13:39.580818+0100 ERROR User creation failed: Email tested8@example.com already exists.
+2023-12-17T17:13:39.805232+0100 ERROR User creation failed: Email tested8@example.com already exists.
+2023-12-17T17:13:39.813921+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:13:39.828097+0100 INFO Created course: New Course
+2023-12-17T17:13:39.839378+0100 INFO Retrieved course: string
+2023-12-17T17:13:39.850120+0100 WARNING Course not found: 9999
+2023-12-17T17:14:06.585869+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:14:06.811768+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:14:06.820110+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:14:06.834477+0100 INFO Created course: New Course
+2023-12-17T17:14:06.844705+0100 INFO Retrieved course: string
+2023-12-17T17:14:06.855009+0100 WARNING Course not found: 9999
+2023-12-17T17:46:15.309465+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:46:15.608479+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:46:15.832670+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:46:15.842496+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:46:15.859197+0100 INFO Created course: New Course
+2023-12-17T17:46:15.877683+0100 INFO Retrieved course: string
+2023-12-17T17:46:15.886998+0100 WARNING Course not found: 9999
+2023-12-17T17:46:15.897763+0100 ERROR Error creating lesson: (psycopg2.errors.ForeignKeyViolation) insert or update on table "lessons" violates foreign key constraint "lessons_course_id_fkey"
+DETAIL:  Key (course_id)=(1) is not present in table "courses".
+
+[SQL: INSERT INTO lessons (title, content, course_id) VALUES (%(title)s, %(content)s, %(course_id)s) RETURNING lessons.id]
+[parameters: {'title': 'Test Lesson', 'content': 'Test Content', 'course_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2023-12-17T16:48:41.875535+0000 WARNING Course not found: 1
+2023-12-17T16:48:46.025623+0000 INFO Retrieved course: string
+2023-12-17T17:49:03.467754+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:49:03.764583+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:49:03.993345+0100 ERROR User creation failed: Email tested9@example.com already exists.
+2023-12-17T17:49:04.002017+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:49:04.015477+0100 INFO Created course: New Course
+2023-12-17T17:49:04.026915+0100 INFO Retrieved course: string
+2023-12-17T17:49:04.036334+0100 WARNING Course not found: 9999
+2023-12-17T17:49:04.050254+0100 INFO Created lesson: Test Lesson
+2023-12-17T17:50:15.858967+0100 ERROR User creation failed: Email tested10@example.com already exists.
+2023-12-17T17:50:16.087658+0100 ERROR User creation failed: Email tested10@example.com already exists.
+2023-12-17T17:50:16.094962+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:50:16.107645+0100 INFO Created course: New Course
+2023-12-17T17:50:16.117230+0100 INFO Retrieved course: string
+2023-12-17T17:50:16.126294+0100 WARNING Course not found: 9999
+2023-12-17T17:50:16.140172+0100 INFO Created lesson: Test Lesson
+2023-12-17T17:51:35.794680+0100 ERROR User creation failed: Email tested11@example.com already exists.
+2023-12-17T17:51:36.022414+0100 ERROR User creation failed: Email tested11@example.com already exists.
+2023-12-17T17:51:36.030816+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:51:36.047259+0100 INFO Created course: New Course
+2023-12-17T17:51:36.060897+0100 INFO Retrieved course: string
+2023-12-17T17:51:36.071513+0100 WARNING Course not found: 9999
+2023-12-17T17:51:36.087420+0100 INFO Created lesson: Test Lesson
+2023-12-17T17:51:36.095995+0100 WARNING Unauthorized attempt to create course by user: 8
+2023-12-17T17:52:24.704083+0100 ERROR User creation failed: Email tested12@example.com already exists.
+2023-12-17T17:52:24.932754+0100 ERROR User creation failed: Email tested12@example.com already exists.
+2023-12-17T17:52:24.940031+0100 INFO Retrieved user: Joh Doe
+2023-12-17T17:52:24.953952+0100 INFO Created course: New Course
+2023-12-17T17:52:24.966230+0100 INFO Retrieved course: string
+2023-12-17T17:52:24.976595+0100 WARNING Course not found: 9999
+2023-12-17T17:52:24.991250+0100 INFO Created lesson: Test Lesson
+2023-12-17T17:52:24.999679+0100 WARNING Unauthorized attempt to create course by user: 8
